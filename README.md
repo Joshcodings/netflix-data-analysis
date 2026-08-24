@@ -1,9 +1,9 @@
-# Netflix Data Analysis & Visualization 📊
+# Netflix Data Analysis & Visualization 
 
 This project explores and visualizes a Netflix dataset using Python, Pandas, and Matplotlib.  
 It uncovers insights into the content available on Netflix, trends by genre, ratings, countries, and more.
 
-## 🚀 Features & Analysis
+## Features & Analysis
 - Cleaned and transformed the dataset (handled missing values, standardized columns, converted dates)
 - Analyzed the most common genres by movies and TV shows
 - Explored ratings categories (Kids, Teen, Mature, Unrated) over the years
@@ -11,7 +11,7 @@ It uncovers insights into the content available on Netflix, trends by genre, rat
 - Identified top actors/actresses appearing in Netflix titles
 - Compared movie durations across genres and countries
 
-## 🔥 Key Insights
+##  Key Insights
 - Drama is the most common genre on Netflix across both movies and TV shows.
 - Majority of content on Netflix is for Mature audiences (TV-MA, R).
 - Most movies and shows are added in July and December.
@@ -27,7 +27,7 @@ It uncovers insights into the content available on Netflix, trends by genre, rat
 - Jupyter Notebook
 - Git & GitHub for version control
 
-## 🚀 How to Run
+## How to Run
 1. Clone this repository
 2. Open `Netflix Anaylsis  and  visualization.ipynb` in Jupyter Notebook
 3. Run all cells to see data cleaning, analysis, and plots.
