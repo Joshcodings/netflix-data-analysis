@@ -23,7 +23,7 @@ It uncovers insights into the content available on Netflix, trends by genre, rat
 - 'Anupam Kher' Actor appear  40+ titles the most in 
 
 ## 🛠 Tech Stack
-- Python (Pandas, Matplotlib, Numpy)
+- Python (Pandas, Matplotlib,Numpy)
 - Jupyter Notebook
 - Git & GitHub for version control
 
