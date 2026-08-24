@@ -6,7 +6,7 @@ It uncovers insights into the content available on Netflix, trends by genre, rat
 ## Features & Analysis
 - Cleaned and transformed the dataset (handled missing values, standardized columns, converted dates)
 - Analyzed the most common genres by movies and TV shows
-- Explored ratings categories (Kids, Teen, Mature, Unrated) over the years
+- Explored ratings categories (Kids, Teen, Mature, Unrated) over the years.
 - Investigated which weekdays and months content is added most
 - Identified top actors/actresses appearing in Netflix titles
 - Compared movie durations across genres and countries
